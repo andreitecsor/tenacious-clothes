@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="39px" viewBox="0 0 50 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <g id="WiP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-90.000000, -38.000000)">
-            <g id="Group" transform="translate(90.000000, 38.000000)">
-                <polygon id="Rectangle" fill="#808282" points="3 14 25 26.5 47 14 40.855176 39 9.08421785 39"></polygon>
-                <polygon id="Triangle" fill-opacity="0.262838724" fill="#101A1A" points="25 8 40 39 10 39"></polygon>
-                <circle id="Oval" fill="#5E6363" cx="2" cy="9" r="2"></circle>
-                <circle id="Oval" fill="#5E6363" cx="25" cy="2" r="2"></circle>
-                <circle id="Oval" fill="#5E6363" cx="48" cy="9" r="2"></circle>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg height="39px" viewBox="0 0 512 512" width="50px" xmlns="http://www.w3.org/2000/svg"><path d="m512 256c0 141.386719-114.613281 256-256 256s-256-114.613281-256-256 114.613281-256 256-256 256 114.613281 256 256zm0 0" fill="#414952"/><path d="m280.625 510.816406c129.828125-12.394531 231.375-121.738281 231.375-254.816406 0-31.785156-5.808594-62.214844-16.398438-90.296875l-72.570312-72.570313-306.722656 25.273438-27.339844 55.378906 203.457031 203.453125-103.75 41.628907zm0 0" fill="#23272b"/><path d="m88.96875 93.132812v80.652344h53.078125v-27.578125h87.417969v219.585938h-40.789063v53.074219h134.648438v-53.074219h-40.789063v-219.585938h87.417969v27.578125h53.078125v-80.652344zm0 0" fill="#fff"/><path d="m255.59375 93.132812v325.734376h67.730469v-53.074219h-40.789063v-219.585938h87.417969v27.578125h53.078125v-80.652344zm0 0" fill="#e9edf5"/></svg>
