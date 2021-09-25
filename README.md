@@ -13,4 +13,7 @@ This project was created for learning purposes and it is based on https://zeroto
 - Custom react components (e.g. Forms, Buttons etc.)
 - Firebase integration for User Authentification 
 - Redux
+- Firestore 
+- styled-components
+- Higher-Order Components (HOC) Patterns
 
